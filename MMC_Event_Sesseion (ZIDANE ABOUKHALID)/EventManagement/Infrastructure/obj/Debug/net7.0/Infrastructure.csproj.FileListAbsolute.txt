@@ -1,0 +1,38 @@
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Infrastructure\bin\Debug\net7.0\Domain.dll
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Infrastructure\bin\Debug\net7.0\Domain.pdb
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Infrastructure\bin\Debug\net7.0\Application.dll
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Infrastructure\bin\Debug\net7.0\Application.pdb
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Infrastructure\bin\Debug\net7.0\Application.dll
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Infrastructure\bin\Debug\net7.0\Domain.dll
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Infrastructure\bin\Debug\net7.0\Application.pdb
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Infrastructure\bin\Debug\net7.0\Domain.pdb
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

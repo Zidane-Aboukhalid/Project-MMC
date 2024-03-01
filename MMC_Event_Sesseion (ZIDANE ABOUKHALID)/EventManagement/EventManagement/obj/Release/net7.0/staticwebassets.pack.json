@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\abouk\\Desktop\\Project MMC S\\MMC_Event_Sesseion\\EventManagement\\EventManagement\\wwwroot\\Upload\\Img_Ev_0e4b3495-16b6-4ddb-9892-9d0a560c10d8.png",
+      "PackagePath": "staticwebassets\\Upload\\Img_Ev_0e4b3495-16b6-4ddb-9892-9d0a560c10d8.png"
+    },
+    {
+      "Id": "C:\\Users\\abouk\\Desktop\\Project MMC S\\MMC_Event_Sesseion\\EventManagement\\EventManagement\\wwwroot\\Upload\\Img_Ev_ef3611ca-044e-4242-959f-382ec93c7eef.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Img_Ev_ef3611ca-044e-4242-959f-382ec93c7eef.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.EventManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.EventManagement.props",
+      "PackagePath": "build\\EventManagement.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.EventManagement.props",
+      "PackagePath": "buildMultiTargeting\\EventManagement.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.EventManagement.props",
+      "PackagePath": "buildTransitive\\EventManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

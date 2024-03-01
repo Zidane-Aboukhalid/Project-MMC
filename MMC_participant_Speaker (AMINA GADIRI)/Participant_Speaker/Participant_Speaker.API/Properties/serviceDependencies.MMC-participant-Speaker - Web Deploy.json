@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Web/sites/MMC-participant-Speaker/providers/Microsoft.ServiceLinker/linkers/ConnectionStringscnx_DBBA6A029F",
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/sqlserver-mmc-auth/databases/MMC_Db_ParticipantSpeaker",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:cnx",
+      "dynamicId": null
+    }
+  }
+}

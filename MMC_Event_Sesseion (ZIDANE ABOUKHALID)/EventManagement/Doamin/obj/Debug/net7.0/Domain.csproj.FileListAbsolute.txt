@@ -1,0 +1,24 @@
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Doamin\bin\Debug\net7.0\Domain.deps.json
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Doamin\bin\Debug\net7.0\Domain.dll
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Doamin\bin\Debug\net7.0\Domain.pdb
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Doamin\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Doamin\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Doamin\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Doamin\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Doamin\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Doamin\obj\Debug\net7.0\Domain.dll
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Doamin\obj\Debug\net7.0\refint\Domain.dll
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Doamin\obj\Debug\net7.0\Domain.pdb
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Doamin\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Doamin\bin\Debug\net7.0\Domain.deps.json
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Doamin\bin\Debug\net7.0\Domain.dll
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Doamin\bin\Debug\net7.0\Domain.pdb
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Doamin\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Doamin\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Doamin\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Doamin\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Doamin\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Doamin\obj\Debug\net7.0\Domain.dll
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Doamin\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Doamin\obj\Debug\net7.0\Domain.pdb
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Doamin\obj\Debug\net7.0\ref\Domain.dll

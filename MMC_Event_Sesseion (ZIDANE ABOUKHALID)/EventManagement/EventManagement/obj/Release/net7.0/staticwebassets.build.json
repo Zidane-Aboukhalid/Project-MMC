@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "69B6gRa2ew/1Rw9oWIKnlrjy/AhlCDv7HZ3VffX2AUk=",
+  "Source": "EventManagement",
+  "BasePath": "_content/EventManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EventManagement\\wwwroot",
+      "Source": "EventManagement",
+      "ContentRoot": "C:\\Users\\abouk\\Desktop\\Project MMC S\\MMC_Event_Sesseion\\EventManagement\\EventManagement\\wwwroot\\",
+      "BasePath": "_content/EventManagement",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\abouk\\Desktop\\Project MMC S\\MMC_Event_Sesseion\\EventManagement\\EventManagement\\wwwroot\\Upload\\Img_Ev_0e4b3495-16b6-4ddb-9892-9d0a560c10d8.png",
+      "SourceId": "EventManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\abouk\\Desktop\\Project MMC S\\MMC_Event_Sesseion\\EventManagement\\EventManagement\\wwwroot\\",
+      "BasePath": "_content/EventManagement",
+      "RelativePath": "Upload/Img_Ev_0e4b3495-16b6-4ddb-9892-9d0a560c10d8.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\Img_Ev_0e4b3495-16b6-4ddb-9892-9d0a560c10d8.png"
+    },
+    {
+      "Identity": "C:\\Users\\abouk\\Desktop\\Project MMC S\\MMC_Event_Sesseion\\EventManagement\\EventManagement\\wwwroot\\Upload\\Img_Ev_ef3611ca-044e-4242-959f-382ec93c7eef.jpg",
+      "SourceId": "EventManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\abouk\\Desktop\\Project MMC S\\MMC_Event_Sesseion\\EventManagement\\EventManagement\\wwwroot\\",
+      "BasePath": "_content/EventManagement",
+      "RelativePath": "Upload/Img_Ev_ef3611ca-044e-4242-959f-382ec93c7eef.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\Img_Ev_ef3611ca-044e-4242-959f-382ec93c7eef.jpg"
+    }
+  ]
+}

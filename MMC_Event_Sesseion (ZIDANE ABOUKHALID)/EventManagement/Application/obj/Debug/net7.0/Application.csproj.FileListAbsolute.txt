@@ -1,0 +1,30 @@
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Application\bin\Debug\net7.0\Application.deps.json
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Application\bin\Debug\net7.0\Application.dll
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Application\bin\Debug\net7.0\Application.pdb
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Application\obj\Debug\net7.0\Application.dll
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Application\obj\Debug\net7.0\refint\Application.dll
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Application\obj\Debug\net7.0\Application.pdb
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Application\obj\Debug\net7.0\ref\Application.dll
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Application\bin\Debug\net7.0\Domain.dll
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Application\bin\Debug\net7.0\Domain.pdb
+D:\AM\Documents\jobintech\C#\MMC1\EventManagement\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Application\bin\Debug\net7.0\Application.dll
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Application\bin\Debug\net7.0\Domain.dll
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Application\bin\Debug\net7.0\Domain.pdb
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Application\obj\Debug\net7.0\Application.dll
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\abouk\Desktop\Project MMC S\MMC_Event_Sesseion\EventManagement\Application\obj\Debug\net7.0\ref\Application.dll
